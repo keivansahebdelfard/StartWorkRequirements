@@ -1,0 +1,1 @@
+vs code : View/Terminal => cd desktop => cat ExtensionList.txt |% { code --install-extension $_}

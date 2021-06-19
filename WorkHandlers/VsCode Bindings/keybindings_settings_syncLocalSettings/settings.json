@@ -1,0 +1,25 @@
+{
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "tslint.alwaysShowRuleFailuresAsWarnings": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "window.zoomLevel": 0,
+  "window.openFilesInNewWindow": "on",
+  "window.openFoldersInNewWindow": "on",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.list.openMode": "doubleClick",
+  "team.showWelcomeMessage": false,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "workbench.editor.enablePreview": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "sync.gist": "",
+  "settingsSync.ignoredExtensions": []
+}
